@@ -1,0 +1,10 @@
+streamlit
+langchain-core
+langchain-huggingface
+langchain-community
+sentence-transformers
+faiss-cpu
+huggingface-hub
+selenium
+python-dotenv
+pydantic>=2.0.0
